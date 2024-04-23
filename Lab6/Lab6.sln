@@ -3,9 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6.csproj", "{7697738D-A3A4-4E89-B4A0-DECAC22C4A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6", "Lab6.csproj", "{7697738D-A3A4-4E89-B4A0-DECAC22C4A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "..\Classes\Classes.csproj", "{AFC4D9EB-A281-4C81-8774-413A97FE3AA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "..\Classes\Classes.csproj", "{AFC4D9EB-A281-4C81-8774-413A97FE3AA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{6087C667-446D-45C9-B316-FA6D0C18EF51}"
+	ProjectSection(SolutionItems) = preProject
+		..\task_06_examples\input_1000a.txt = ..\task_06_examples\input_1000a.txt
+		..\task_06_examples\input_1000b.txt = ..\task_06_examples\input_1000b.txt
+		..\task_06_examples\input_1000c.txt = ..\task_06_examples\input_1000c.txt
+		..\task_06_examples\input_100a.txt = ..\task_06_examples\input_100a.txt
+		..\task_06_examples\input_100b.txt = ..\task_06_examples\input_100b.txt
+		..\task_06_examples\input_100c.txt = ..\task_06_examples\input_100c.txt
+		..\task_06_examples\input_10a.txt = ..\task_06_examples\input_10a.txt
+		..\task_06_examples\input_10b.txt = ..\task_06_examples\input_10b.txt
+		..\task_06_examples\input_10c.txt = ..\task_06_examples\input_10c.txt
+		..\task_06_examples\output_1000a_501.txt = ..\task_06_examples\output_1000a_501.txt
+		..\task_06_examples\output_1000b_1025.txt = ..\task_06_examples\output_1000b_1025.txt
+		..\task_06_examples\output_1000c_513.txt = ..\task_06_examples\output_1000c_513.txt
+		..\task_06_examples\output_100a_51.txt = ..\task_06_examples\output_100a_51.txt
+		..\task_06_examples\output_100b_78.txt = ..\task_06_examples\output_100b_78.txt
+		..\task_06_examples\output_100c_103.txt = ..\task_06_examples\output_100c_103.txt
+		..\task_06_examples\output_10a_9.txt = ..\task_06_examples\output_10a_9.txt
+		..\task_06_examples\output_10b_7.txt = ..\task_06_examples\output_10b_7.txt
+		..\task_06_examples\output_10c_9.txt = ..\task_06_examples\output_10c_9.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
